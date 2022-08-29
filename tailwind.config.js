@@ -16,7 +16,7 @@ module.exports = {
         darkGray: 'hsl(0, 0%, 59%)', 
       },
       backgroundImage: {
-        cardBg: "url('/images/bg-pattern-card.svg')"
+        cardBg: "url('../images/bg-pattern-card.svg')"
       }
     },
   },
